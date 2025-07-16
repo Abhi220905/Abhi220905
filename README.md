@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abhishek Khatri<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning B.C.A And Full Stack Development<br>🧑🏻‍💻 I know Some Language like HTML, CSS, DSA, C, XML.<br> 
+👋 Hi, I’m Abhishek Khatri<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning B.C.A And Full Stack Development<br>🧑🏻‍💻 I know Some Language like HTML, CSS,JavaScript, C++ DSA, C, XML.<br> 
 
 
 ## 🌐 Socials:
@@ -13,7 +13,10 @@
 
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br>
 
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) <br>
+
+  ![JavaScript](https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white)   
+    ![C++](https://img.shields.io/badge/cpp-%23E34F26.svg?style=for-the-badge&logo=cpp&logoColor=white) 
  
 # 📊 GitHub Stats:
 

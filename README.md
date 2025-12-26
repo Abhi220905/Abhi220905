@@ -107,16 +107,16 @@ I strongly believe in:
 💬 I’m always open to collaboration, learning opportunities, and discussions around web development.
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="in/abhishek-khatri-1a6906225" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:abhishekkhatri0022@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link/" target="_blank">
+  <a href="https://portfolio-abhi2209.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>

@@ -104,11 +104,17 @@ I strongly believe in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Abhi220905&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Abhishek's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Abhi220905&theme=tokyonight&hide_border=true"
+    alt="Abhishek's GitHub Streak"
+  />
 </p>
 
 ---

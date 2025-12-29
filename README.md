@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Abhishek Khatri**
 
-### 💻 Full Stack Developer (MERN) | 🎨 Front-End Developer | UI/UX Enthusiast  
+### 💻 Full Stack Developer (MERN) | 🎨 Front-End Developer  
 📚 BCA Student | Passionate About Problem-Solving & Real-World Products  
 
 ✨ *Building scalable applications with clean code & intuitive design*
